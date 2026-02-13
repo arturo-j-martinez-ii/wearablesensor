@@ -1,5 +1,4 @@
 # wearablesensor
-QL Plus Wearable Sensor Project
 
 _**About This Project:**_
 
